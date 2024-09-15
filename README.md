@@ -8,5 +8,5 @@ Great of u have problem with people using enderchest meta
 - saves Config
 
 ## contributor's
-Ralvy (Did most of the work) (dc: Endcrystals)
-Fogma (Me, i did the keybind and configuration part!)
+-Ralvy (Did most of the work) (dc: Endcrystals)
+-Fogma (Me, i did the keybind and configuration part!)
