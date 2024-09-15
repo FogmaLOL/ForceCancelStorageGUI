@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "ecmetamod",
 	"version": "${version}",
-	"name": "ecmetamod",
+	"name": "StorageBlock",
 	"description": "Prevents u going into storage GUI'S",
 	"authors": [
 		"Fogma & Ralvy"
