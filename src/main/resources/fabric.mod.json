@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "ecmetamod",
+	"version": "${version}",
+	"name": "ecmetamod",
+	"description": "Prevents u going into storage GUI'S",
+	"authors": [
+		"Fogma & Ralvy"
+	],
+	"contact": {
+		"homepage": "https://github.com/FogmaLOL",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/modicon/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"stop.using.echest.meta.on.me.Ecmetamod"
+		]
+	},
+
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
